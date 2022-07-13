@@ -18,4 +18,7 @@ The files in this repository contain Jupyter files of all of the work I had to d
 - Using loc() instead of loops to make filtering more efficient
 - Using crosstabs to quickly find possible interesting relationships between variables
 - Importing data and saving as dataframes, exporting dataframes into various file formats
-- 
+- Creating basic statistical summaries of variables
+- Visualizing data in Python (although I much prefer using Tableau to make these)
+
+
