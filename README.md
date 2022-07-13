@@ -22,3 +22,11 @@ The files in this repository contain Jupyter files of all of the work I had to d
 - Visualizing data in Python (although I much prefer using Tableau to make these)
 
 
+## Basic Walkthrough of the Worlflow of this Project
+1. Clean two large data sets, 'orders' and 'products'. 
+2. Wrangle this new, larger data set to only include relevant information. Rename weird columns, drop useless ones, etc.
+3. Merge this data set with a third data 'customers' data set based on the customer id within each order. Exclude sensitive information that could comprimise a customer's identity.
+4. Create new flags for customers based on a few of their ordering habits, product preferences, family status, and where they are located in the US.
+5. Run some statistical analysis on these groups
+6. Visualize the analysis
+7. Complete a fictional report in Excel for instacart revealing the findings.
