@@ -30,3 +30,6 @@ The files in this repository contain Jupyter files of all of the work I had to d
 5. Run some statistical analysis on these groups
 6. Visualize the analysis
 7. Complete a fictional report in Excel for instacart revealing the findings.
+
+
+While the conclusions found in this analysis were not all that interesting, the work was delightful and a wonderful learning experience. The results and a few Jupyter files from this project can be found in the folders of this repository. 
